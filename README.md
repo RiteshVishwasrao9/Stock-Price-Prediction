@@ -1,1 +1,1 @@
-# Stock Price Prediction Project Of reliance NS using yfinance
+# Stock Price Prediction Project using yfinance
